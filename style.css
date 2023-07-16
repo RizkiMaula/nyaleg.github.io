@@ -1,0 +1,24 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #ddbbbb;
+}
+
+.navbar {
+  background-color: #8b0000;
+}
+
+#program {
+  background-color: #ddbbbb;
+}
+
+/* #aspirasi {
+    background-color: #ddbbbb;
+  } */
+
+footer {
+  background-color: #ddbbbb;
+}
+
+section {
+  padding-top: 5rem;
+}
